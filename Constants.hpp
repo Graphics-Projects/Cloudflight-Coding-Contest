@@ -1,11 +1,6 @@
 #pragma once
 
-#include <vector>
-#include <string>
-#include <iostream>
-#include <utility>
-#include <sstream>
-#include <fstream>
+#include <bits/stdc++.h>
 
 // Valid type aliases
 typedef long long ll;
